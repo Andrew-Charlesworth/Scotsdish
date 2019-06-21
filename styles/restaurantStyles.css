@@ -1,0 +1,54 @@
+ /*ff;
+Creator: Andrew Charlesworth
+Date created:6/20/2019
+Date last modified:
+*/
+
+header, footer{
+	background-color: #3A2715;
+	color:#fef9ff;
+	height: 100px;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+}
+h1{
+	font-size: 2.5em #;
+}
+nav {
+	border-top: 3px thin #546a7b;
+	border-bottom: 3px thin #546a7b;
+	margin-top: 4px;
+}
+
+.clear-float {
+	clear:both;
+}
+
+nav a {
+	background-color: #3A2715;
+	color:#fef9ff;
+	padding: 8px;
+	border: thin solid #0d1f2d;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	margin: 20px;
+	width: 100px;
+	float: left;
+}
+nav a:hover {
+	background-color: #fef9ff;
+	color: #5b7d87;
+}
+
+nav a:active {
+	font-weight:bold;
+}
+
+nav a:visited {
+	color:#e4c3ad;
+}
+body {
+	background-color: #995818;
+	
+}
